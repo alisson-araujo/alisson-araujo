@@ -1,3 +1,3 @@
 ### Hi there 👋 😬
 
-<codersrank-skills-chart username="YOUR_USERNAME"></codersrank-skills-chart>
+<codersrank-skills-chart username="alisson-araujo"></codersrank-skills-chart>
